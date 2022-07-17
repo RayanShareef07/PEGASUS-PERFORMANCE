@@ -1,8 +1,8 @@
-id=PEGASUSXPERFORMANCE
-name=PEGASUS
+id=PXP
+name=PEGASUSxPERFORMANCE 
 version=X1
 versionCode=10000
 author=LEGEND_GAMING078 ▰ CRANKV2 ▰ [TELEGRAM]
-description=▌LET YOUR PH RIDE THE PERFORMANCE OF PEGASUS ▰ TERMUX COMMAND ▰ su -c pegasus
+description=▌REMARKABLY FOCUSED ON ENHACING USER EXPERIENCE ▰ TERMUX COMMAND ▰ su -c pegasus
 support=Android Root Modules Community ▰ Stratosphere Performance ▰ Stratosphere Cloud ▰ [TELEGRAM]
-updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxTHERMAL/main/module.json
+updateJson=https://raw.githubusercontent.com/RayanShareef07/PEGASUSXPERFORMANCE/main/module.json
